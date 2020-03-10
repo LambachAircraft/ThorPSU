@@ -619,4 +619,26 @@ Wire Wire Line
 Wire Wire Line
 	4500 1850 4500 2200
 Connection ~ 5800 1850
+$Comp
+L power:GND #PWR?
+U 1 1 5E6845C9
+P 8800 4150
+F 0 "#PWR?" H 8800 3900 50  0001 C CNN
+F 1 "GND" H 8805 3977 50  0000 C CNN
+F 2 "" H 8800 4150 50  0001 C CNN
+F 3 "" H 8800 4150 50  0001 C CNN
+	1    8800 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8450 3800 8450 4050
+Wire Wire Line
+	8450 4050 8800 4050
+Wire Wire Line
+	8800 4050 8800 4150
+Wire Wire Line
+	9150 3800 9150 4050
+Wire Wire Line
+	9150 4050 8800 4050
+Connection ~ 8800 4050
 $EndSCHEMATC
