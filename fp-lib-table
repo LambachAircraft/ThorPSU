@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ThorPSU)(type KiCad)(uri ${KIPRJMOD}/ThorPSU.pretty)(options "")(descr ""))
+)
