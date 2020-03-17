@@ -716,7 +716,7 @@ U 1 1 5E6BE9D0
 P 1200 6100
 F 0 "J1" H 1250 4275 50  0000 C CNN
 F 1 "Conn_02x32_Counter_Clockwise" H 1250 4366 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x32_P2.54mm_Horizontal" H 1200 6100 50  0001 C CNN
+F 2 "ThorPSU:HP DPS connector" H 1200 6100 50  0001 C CNN
 F 3 "~" H 1200 6100 50  0001 C CNN
 	1    1200 6100
 	-1   0    0    1   
@@ -1107,7 +1107,7 @@ U 1 1 5E6EB588
 P 1200 2550
 F 0 "J2" H 1250 725 50  0000 C CNN
 F 1 "Conn_02x32_Counter_Clockwise" H 1250 816 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x32_P2.54mm_Horizontal" H 1200 2550 50  0001 C CNN
+F 2 "ThorPSU:HP DPS connector" H 1200 2550 50  0001 C CNN
 F 3 "~" H 1200 2550 50  0001 C CNN
 	1    1200 2550
 	-1   0    0    1   
